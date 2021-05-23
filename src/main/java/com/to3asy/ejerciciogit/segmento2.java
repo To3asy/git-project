@@ -13,5 +13,6 @@ public class segmento2 {
     
     public void degunda_clase(){
         System.out.println("Este es el mensaje de la segunda clase");
+        System.out.println("Otro Mensaje");
     }
 }
