@@ -13,5 +13,6 @@ public class principal {
     
     public void mensaje(){
         System.out.println("Este es mi primer mensaje");
+        System.out.println("Este es el segundo Mensaje");
     }
 }
