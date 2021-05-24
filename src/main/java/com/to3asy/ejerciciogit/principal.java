@@ -15,5 +15,6 @@ public class principal {
         System.out.println("Este es mi primer mensaje");
         System.out.println("Este es el segundo Mensaje");
         System.out.println("Este es mi tercer mensaje para fusionar interrupcion del sistema para conflicto");
+        System.out.println("Este es mi tercer mensaje para fusionar interrupcion del sistema para conflicto2");
     }
 }
