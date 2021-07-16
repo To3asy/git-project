@@ -1,0 +1,75 @@
+---- GIT ------
+To3asy
+to3asy.api@gmail.com
+T034sy98662889*
+-----------------
+
+---- CREDENCIALES ORACLE PRODUCTS -----
+plataformaworld@gmail.com
+Hamj98662889
+----------------------------------------
+
+--- VPN BANCO W ---
+usuario: darevalo
+psw: Agosto2021*
+-------------------
+
+--- CONEXION DB BANCO W ---
+Bantotal
+Usuario: Integraciones
+Clave: sep2020
+TNSNames: BDWDEV
+---------------------------
+
+--- CONEXION REPORTES HC ---
+http://172.18.46.109:8480/His
+usuario:jueramirez
+password:Sanitas2019
+----------------------------
+
+---CONEXION BD PREPRODUCCION AVICENA ---
+srvprebd-scan:1521/pavicena
+----------------------------------------
+
+--- CREDENCIALES AL REPOSITORIO KERALTY ---
+Usuario Dominio: SANITAS\pruebasophia
+Contraseña:Prueba2017
+\\172.18.46.210\Sophia\V6.1.5
+--------------------------------------------
+
+---PREPRODUCCION KERALTY SOPHIA ---
+172.18.46.117,1470
+sophiap
+SkPx5J3Z76vws9fe
+------------------------------------
+
+--- CONFLUENT CLOUD KAFKA ---
+User: plataformaworld@gmail.com
+Pass: Hamj9866*
+
+APIKEY
+Key: HZSSEW3234TQAC43
+Secret: 70ZVdXkWAMt6k8Zc2QcE/zsaMiN24dcGxunrKPdMXMuNUgTy+QS4PfCWh+VZWWWs
+-------------------------------------------
+
+--- ACCESO SQL SERVER 2005 LOCALHOST ---
+user: sa
+pass: HAMJ9866*
+----------------------------------------
+
+--- ACCESO PRUEBAS KERALTY ---
+Ambiente de QA
+Conexión base de datos:  Nodo 1
+Servidor: srvvsophiapru1,1470
+          172.18.46.40
+Base de datos: Sophia
+Usuario: sophiap
+Password: SkPx5J3Z76vws9fe
+---------------------------------
+
+jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = srvprebd-scan)(PORT = 1521)))(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVICE_NAME = pavicena)(FAILOVER_MODE = (TYPE = SELECT) (METHOD = BASIC)(RETRIES = 180) (DELAY = 5))))
+
+user: wusuhis
+pwd: buf4l020120s1
+
+
