@@ -1,0 +1,15 @@
+[Bb]in/*
+[Db]egub/*
+[Oo]bj/*
+CarpetaSalud/CarpetaSalud.API/.vs/CarpetaSalud.API/DesignTimeBuild/.dtbcache.v2
+CarpetaSalud/CarpetaSalud.API/CarpetaSalud.log
+CarpetaSalud/CarpetaSalud.API/bin
+CarpetaSalud/CarpetaSalud.BLL/bin
+CarpetaSalud/CarpetaSalud.DAL/bin
+CarpetaSalud/CarpetaSalud.DTO/bin
+CarpetaSalud/CarpetaSalud.HandlerException/bin
+.vs/
+*.json
+*.pubxml
+*.user
+*.txt
