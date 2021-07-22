@@ -13,3 +13,4 @@ CarpetaSalud/CarpetaSalud.HandlerException/bin
 *.pubxml
 *.user
 *.txt
+*.sql
